@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nEUaep0WY57vCCk05no4vQ2hMdQz0v5+dvJNAThuWg2oCGGjcmwnyFOAbByAOjPkkLIz5f/DPXmZL6iBhfPn6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\angeg\\OneDrive\\Documents\\Estudos\\Microsservicos_.Net\\Iterometro\\Iterometro.Domain\\Iterometro.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angeg\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\angeg\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\angeg\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

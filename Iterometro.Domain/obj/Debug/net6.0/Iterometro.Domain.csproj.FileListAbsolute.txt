@@ -1,0 +1,11 @@
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Domain\bin\Debug\net6.0\Iterometro.Domain.deps.json
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Domain\bin\Debug\net6.0\Iterometro.Domain.dll
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Domain\bin\Debug\net6.0\Iterometro.Domain.pdb
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Domain\obj\Debug\net6.0\Iterometro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Domain\obj\Debug\net6.0\Iterometro.Domain.AssemblyInfoInputs.cache
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Domain\obj\Debug\net6.0\Iterometro.Domain.AssemblyInfo.cs
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Domain\obj\Debug\net6.0\Iterometro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Domain\obj\Debug\net6.0\Iterometro.Domain.dll
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Domain\obj\Debug\net6.0\refint\Iterometro.Domain.dll
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Domain\obj\Debug\net6.0\Iterometro.Domain.pdb
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Domain\obj\Debug\net6.0\ref\Iterometro.Domain.dll

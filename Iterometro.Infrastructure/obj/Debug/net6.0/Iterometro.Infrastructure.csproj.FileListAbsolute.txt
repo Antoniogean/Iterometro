@@ -1,0 +1,17 @@
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Infrastructure\bin\Debug\net6.0\Iterometro.Infrastructure.deps.json
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Infrastructure\bin\Debug\net6.0\Iterometro.Infrastructure.runtimeconfig.json
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Infrastructure\bin\Debug\net6.0\Iterometro.Infrastructure.dll
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Infrastructure\bin\Debug\net6.0\Iterometro.Infrastructure.pdb
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Infrastructure\bin\Debug\net6.0\Iterometro.Domain.dll
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Infrastructure\bin\Debug\net6.0\Iterometro.Domain.pdb
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Infrastructure\obj\Debug\net6.0\Iterometro.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Infrastructure\obj\Debug\net6.0\Iterometro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Infrastructure\obj\Debug\net6.0\Iterometro.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Infrastructure\obj\Debug\net6.0\Iterometro.Infrastructure.AssemblyInfo.cs
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Infrastructure\obj\Debug\net6.0\Iterometro.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Infrastructure\obj\Debug\net6.0\Iterometro.Infrastructure.csproj.CopyComplete
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Infrastructure\obj\Debug\net6.0\Iterometro.Infrastructure.dll
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Infrastructure\obj\Debug\net6.0\refint\Iterometro.Infrastructure.dll
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Infrastructure\obj\Debug\net6.0\Iterometro.Infrastructure.pdb
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Infrastructure\obj\Debug\net6.0\Iterometro.Infrastructure.genruntimeconfig.cache
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.Infrastructure\obj\Debug\net6.0\ref\Iterometro.Infrastructure.dll

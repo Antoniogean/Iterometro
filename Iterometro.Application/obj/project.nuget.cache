@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "i8PUMBo23rCTQYcWuwgTm2aDak/NH/f4IoO6phjoFcKBW5Rl6fP5ZcY5B29D8ANOlnEBmJNTKWzD+MtIDM6ZWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\angeg\\OneDrive\\Documents\\Estudos\\Microsservicos_.Net\\Iterometro\\Iterometro.Application\\Iterometro.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angeg\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\angeg\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\angeg\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\angeg\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\angeg\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\angeg\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
