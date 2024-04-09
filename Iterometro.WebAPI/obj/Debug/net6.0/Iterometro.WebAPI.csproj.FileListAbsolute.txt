@@ -33,3 +33,4 @@ C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterome
 C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.WebAPI\bin\Debug\net6.0\MediatR.dll
 C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.WebAPI\bin\Debug\net6.0\MediatR.Contracts.dll
 C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\angeg\OneDrive\Documents\Estudos\Microsservicos_.Net\Iterometro\Iterometro.WebAPI\obj\Debug\net6.0\Iterometro.WebAPI.sourcelink.json

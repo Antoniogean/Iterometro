@@ -6,6 +6,15 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="NovaPasta1\**" />
+    <Compile Remove="NovaPasta\**" />
+    <EmbeddedResource Remove="NovaPasta1\**" />
+    <EmbeddedResource Remove="NovaPasta\**" />
+    <None Remove="NovaPasta1\**" />
+    <None Remove="NovaPasta\**" />
+  </ItemGroup>
 	
     <ItemGroup>
 		<PackageReference Include="MediatR" Version="12.2.0" />
@@ -13,5 +22,9 @@
 
 	<ItemGroup>
 		<ProjectReference Include="..\Iterometro.Domain\Iterometro.Domain.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="Contagem\Handler\" />
 	</ItemGroup>
 </Project>
